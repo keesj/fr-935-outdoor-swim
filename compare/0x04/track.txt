@@ -1,0 +1,2 @@
+Compare of watch with Fitotrack running in swim bouy. The GPS
+has been changed to GPX + GALILEO + GPS + Save position every second
